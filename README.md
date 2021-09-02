@@ -11,10 +11,10 @@ The notion of ASRU gives some highlights on the alternative usage of s-exons, he
 
 # About the code
 
-For a given gene, or a list of genes it generates a .csv file of the given form :
+For a given gene, or a list of genes it generates a .csv file of the given form : <br />
 
-gene,uniteRepetee,instances,max,min,moy,median,ecartType,evenements
-SLC6A12,"{'1_1', '1_7'}",2,68,37,52.5,52.5,15.5,[3]
+gene,uniteRepetee,instances,max,min,moy,median,ecartType,evenements<br />
+SLC6A12,"{'1_1', '1_7'}",2,68,37,52.5,52.5,15.5,[3] <br />
 SLC6A12,"{'5_2', '5_0/5_1'}",2,48,47,47.5,47.5,0.5,[2]
 
 where max is the maximum in length, and the events column are those events (in fact the rank of the event, from highly conserved to less conserved) where the s-exon(s) played a role in.
