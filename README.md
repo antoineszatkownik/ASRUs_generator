@@ -38,7 +38,7 @@ Then all you have to do is remove the hash sign at either of the following line 
 
 writecsv_ASRU() will write the csv about the ASRUs, writecsv_instances() will write the csv about the instances.
 
-***Note***
+***Note : ***
 The variable "earth" is the list of all gene's name highlighted by ThorAxe ([1]), it contains 2190 names of gene. If you are interested in a specific set of genes, then replace it by a list of the names of those genes.
 
 References
