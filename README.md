@@ -32,7 +32,7 @@ where max is the maximum in length, and the events column are those events (in f
 
 The data used for this code are provided in the "data" folder. Prior to running the code you should not forget to rename the paths.
 Then all you have to do is remove the hash sign at either of the following line (present at the end of the code) : <br />
-#writecsv_ASRU() <br />       
+#writecsv_ASRU()       
 #writecsv_instances() <br />
 
 writecsv_ASRU() will write the csv about the ASRUs, writecsv_instances() will write the csv about the instances.
