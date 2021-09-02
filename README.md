@@ -41,5 +41,5 @@ writecsv_ASRU() will write the csv about the ASRUs, writecsv_instances() will wr
 ***Note:***
 The variable "earth" is the list of all gene's name highlighted by ThorAxe [1], it contains 2190 names of gene. If you are interested in a specific set of genes, then replace it by a list of the names of those genes.
 
-References
+***References*** <br />
 [1] : https://doi.org/10.1101/2020.11.14.382820
