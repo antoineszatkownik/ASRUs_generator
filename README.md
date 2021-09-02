@@ -31,9 +31,12 @@ where max is the maximum in length, and the events column are those events (in f
 # How to use
 
 The data used for this code are provided in the "data" folder. Prior to running the code you should not forget to rename the paths.
-Then all you have to do is remove the hash sign at either following line (present at the end of the code) : <br />
-#writecsv_ASRU() <br />
-#writecsv_instances()
+Then all you have to do is remove the hash sign at either of the following line (present at the end of the code) : <br />
+#writecsv_ASRU()                    #corresponding to the csv about the ASRUs <br />       
+#writecsv_instances()               #corresponding to the csv about the instances
+
+***Note***
+The variable "earth" is the list of all gene's name highlighted by ThorAxe ([1]), it contains 2190 names of gene. If you are interested in a specific set of genes, then replace it by a list of the names of those genes.
 
 References
 [1] : https://doi.org/10.1101/2020.11.14.382820
