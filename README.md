@@ -30,5 +30,10 @@ where max is the maximum in length, and the events column are those events (in f
 
 # How to use
 
+The data used for this code are provided in the "data" folder. Prior to running the code you should not forget to rename the paths.
+Then all you have to do is remove the hash sign at either following line (present at the end of the code) :
+#writecsv_ASRU()
+#writecsv_instances()
+
 References
 [1] : https://doi.org/10.1101/2020.11.14.382820
